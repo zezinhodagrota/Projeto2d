@@ -1,0 +1,14 @@
+
+*{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+
+
+@fonte-face{
+    fonte-family: 'montebello';
+    src:url(montebello-regular.ttf) format("truetype"),url(montebello-liight.ttf) format
+
+}
